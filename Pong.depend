@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1739473351 source:c:\users\gonca\desktop\personal projects\pong\bola.c
+	"bola.h"
+
+1739473574 c:\users\gonca\desktop\personal projects\pong\bola.h
+
+1739475586 source:c:\users\gonca\desktop\personal projects\pong\main.c
+	"raylib.h"
+	"bola.h"
+

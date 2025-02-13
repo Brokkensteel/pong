@@ -8,3 +8,16 @@
 	"raylib.h"
 	"bola.h"
 
+1739476893 source:c:\dev\raylib_codeblock\pong\bola.c
+	"bola.h"
+
+1739478428 c:\dev\raylib_codeblock\pong\bola.h
+
+1739478428 source:c:\dev\raylib_codeblock\pong\main.c
+	"raylib.h"
+	"bola.h"
+
+1739113738 c:\dev\raylib_codeblock\include\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
